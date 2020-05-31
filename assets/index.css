@@ -1,0 +1,17 @@
+.icontain {
+  display: flex;
+  flex: 1;
+}
+
+.stream {
+  background-color: #e8fcfb;
+  padding: 60px 0 60px 0;
+}
+
+.twitch-video {
+  height: 50vh;
+}
+
+.text-justify {
+  padding: 20px;
+}

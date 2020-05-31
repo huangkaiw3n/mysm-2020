@@ -480,7 +480,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 50vh;
-  background: url(../img/intro-bg.jpg) top center;
+  background: url(../assets/img/intro-bg.jpg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -673,7 +673,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #about {
-  background: url("../img/intro-bg.jpg");
+  background: url("../assets/img/intro-bg.jpg");
   background-size: cover;
   overflow: hidden;
   position: relative;

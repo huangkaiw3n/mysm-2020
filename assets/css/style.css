@@ -733,7 +733,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: rgba(6, 12, 34, 0.76);
   position: absolute;
   left: 0;
-  bottom: -30px;
+  bottom: 0;
   right: 0;
   text-align: center;
   padding-top: 10px;
@@ -764,10 +764,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #speakers .speaker .details a:hover {
   color: #f82249;
-}
-
-#speakers .speaker:hover .details {
-  bottom: 0;
 }
 
 #speakers-details {
